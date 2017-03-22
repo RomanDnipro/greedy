@@ -1,5 +1,5 @@
 import java.util.*;
-
+//second commit
 public class Main{
 	public static void main(String args[]){
 		float m;    //требуемая сдача в $
